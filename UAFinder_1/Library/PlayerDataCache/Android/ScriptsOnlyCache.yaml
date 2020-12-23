@@ -1408,4 +1408,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/AR Campus Navigation.unity
-  playerPath: D:/UAFinder_1/UA.apk
+  playerPath: D:/UAFinder/UAFinder_1/UAFinder.apk
